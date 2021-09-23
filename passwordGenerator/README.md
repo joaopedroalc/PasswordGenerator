@@ -1,4 +1,4 @@
-<a href='https://pass-generator-curse.netlify.app/'>PassWord Generator</a>
+<a href='https://pass-generator-curse.netlify.app/'>Password Generator</a>
 
 </br>
 
